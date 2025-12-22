@@ -1,0 +1,22 @@
+# Dependencies
+node_modules
+package-lock.json
+
+# Build outputs
+dist
+.vite
+coverage
+
+# Generated files
+*.tsbuildinfo
+
+# Config files (may have specific formatting)
+package.json
+package-lock.json
+
+# Documentation (markdown formatting may differ)
+*.md
+
+# Test coverage
+coverage/
+
